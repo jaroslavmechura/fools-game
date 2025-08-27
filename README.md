@@ -11,7 +11,7 @@ Players navigate through groups of rooms filled with reactive enemies.
 They can either fight their way directly through or try to sneak around to attack enemies from behind using melee weapons for stealth takedowns.  
 Each level is designed to challenge reflexes and strategic thinking.  
 
-![Gameplay screenshot](images/gameplay.png)
+![Gameplay screenshot](GitMedia/Main.png)
 
 ---
 
