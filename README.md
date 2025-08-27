@@ -54,6 +54,14 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 
 ---
 
+
+## Video Walkthrough
+[![Gameplay video](GitMedia/Main.png)](https://youtu.be/yrXJghZ3A5U)
+
+
+---
+
+
 ## Screenshots
 
 ![Gameplay screenshot](GitMedia/Club3.png)
