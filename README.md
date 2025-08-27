@@ -1,4 +1,5 @@
 # Fools Game
+![Gameplay screenshot](GitMedia/Main.png)
 
 [Download demo build](https://mega.nz/folder/DAEC1QDD#WIKLTGUpiiyVHaSZVCjkDQ)
 
@@ -11,7 +12,7 @@ Players navigate through groups of rooms filled with reactive enemies.
 They can either fight their way directly through or try to sneak around to attack enemies from behind using melee weapons for stealth takedowns.  
 Each level is designed to challenge reflexes and strategic thinking.  
 
-![Gameplay screenshot](GitMedia/Main.png)
+![Gameplay screenshot](GitMedia/Club1.png)
 
 ---
 
@@ -22,6 +23,8 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 - **Effects and animations:** shooting effects, environmental effects, hit and explosion visuals, character, enemy, and weapon animations, lighting system.  
 - **Graphics:** vector graphics, level design, visual consistency.  
 - **System integration:** connecting gameplay, animations, effects, and other elements into a playable and cohesive experience.  
+
+![Gameplay screenshot](GitMedia/Office.png)
 
 ---
 
@@ -37,4 +40,21 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 | Voiceovers | AI-generated character voices | [https://elevenlabs.io] |
 
 > All external assets are used for **non-commercial purposes only**; this is a portfolio project.  
+
+---
+
+## Screenshots
+
+![Gameplay screenshot](GitMedia/Club2.png)
+![Gameplay screenshot](GitMedia/Club3.png)
+![Gameplay screenshot](GitMedia/Club4.png)
+![Gameplay screenshot](GitMedia/Club5.png)
+![Gameplay screenshot](GitMedia/Club6.png)
+![Gameplay screenshot](GitMedia/Club7.png)
+![Gameplay screenshot](GitMedia/Club8.png)
+![Gameplay screenshot](GitMedia/Farm1.png)
+![Gameplay screenshot](GitMedia/Farm2.png)
+![Gameplay screenshot](GitMedia/Farm3.png)
+
+---
 
