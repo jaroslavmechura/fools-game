@@ -1,9 +1,13 @@
 # Fools Game
+
 ![Gameplay screenshot](GitMedia/Main.png)
+
 
 [Download demo build](https://mega.nz/folder/DAEC1QDD#WIKLTGUpiiyVHaSZVCjkDQ)
 
+
 ---
+
 
 ## Game Description
 **Fools Game** is a 2D top-down shooter inspired by titles like *Hotline Miami* and *OTXO*.  
@@ -14,7 +18,9 @@ Each level is designed to challenge reflexes and strategic thinking.
 
 ![Gameplay screenshot](GitMedia/Club1.png)
 
+
 ---
+
 
 ## My Contributions
 I worked on almost every aspect of the game except music, voiceovers, and some sound effects:  
@@ -26,7 +32,9 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 
 ![Gameplay screenshot](GitMedia/Club2.png)
 
+
 ---
+
 
 ## External Assets and References
 - **Sounds and music:** taken from freely available sources  
@@ -41,29 +49,39 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 
 > All external assets are used for **non-commercial purposes only**; this is a portfolio project.  
 
+
 ---
 
 ## Screenshots
 
-![Gameplay screenshot](GitMedia/Office.png)
-
 ![Gameplay screenshot](GitMedia/Club3.png)
 
-![Gameplay screenshot](GitMedia/Club4.png)
 
 ![Gameplay screenshot](GitMedia/Club5.png)
 
+
 ![Gameplay screenshot](GitMedia/Club6.png)
+
 
 ![Gameplay screenshot](GitMedia/Club7.png)
 
+
+![Gameplay screenshot](GitMedia/Club4.png)
+
+
 ![Gameplay screenshot](GitMedia/Club8.png)
+
+
+![Gameplay screenshot](GitMedia/Office.png)
+
 
 ![Gameplay screenshot](GitMedia/Farm1.png)
 
+
 ![Gameplay screenshot](GitMedia/Farm2.png)
+
 
 ![Gameplay screenshot](GitMedia/Farm3.png)
 
----
 
+---
