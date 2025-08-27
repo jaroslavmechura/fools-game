@@ -24,7 +24,7 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 - **Graphics:** vector graphics, level design, visual consistency.  
 - **System integration:** connecting gameplay, animations, effects, and other elements into a playable and cohesive experience.  
 
-![Gameplay screenshot](GitMedia/Office.png)
+![Gameplay screenshot](GitMedia/Club2.png)
 
 ---
 
@@ -45,15 +45,24 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 
 ## Screenshots
 
-![Gameplay screenshot](GitMedia/Club2.png)
+![Gameplay screenshot](GitMedia/Office.png)
+
 ![Gameplay screenshot](GitMedia/Club3.png)
+
 ![Gameplay screenshot](GitMedia/Club4.png)
+
 ![Gameplay screenshot](GitMedia/Club5.png)
+
 ![Gameplay screenshot](GitMedia/Club6.png)
+
 ![Gameplay screenshot](GitMedia/Club7.png)
+
 ![Gameplay screenshot](GitMedia/Club8.png)
+
 ![Gameplay screenshot](GitMedia/Farm1.png)
+
 ![Gameplay screenshot](GitMedia/Farm2.png)
+
 ![Gameplay screenshot](GitMedia/Farm3.png)
 
 ---
