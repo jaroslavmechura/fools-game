@@ -56,7 +56,8 @@ I worked on almost every aspect of the game except music, voiceovers, and some s
 
 
 ## Video Walkthrough
-[![Gameplay video]()](https://youtu.be/yrXJghZ3A5U)
+![The Club Walkthrough](https://youtu.be/yrXJghZ3A5U)
+![Unfinished Levels Walkthrough](https://youtu.be/yrXJghZ3A5U)
 
 
 ---
