@@ -12,8 +12,10 @@
 ## Game Description
 **Fools Game** is a 2D top-down shooter inspired by titles like *Hotline Miami* and *OTXO*.  
 It’s a fast-paced, adrenaline-fueled game with a story about revenge.  
+
 Players navigate through groups of rooms filled with reactive enemies.  
 They can either fight their way directly through or try to sneak around to attack enemies from behind using melee weapons for stealth takedowns.  
+
 Each level is designed to challenge reflexes and strategic thinking.  
 
 ![Gameplay screenshot](GitMedia/Club1.png)
