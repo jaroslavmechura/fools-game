@@ -10,7 +10,7 @@
 
 
 ## Game Description
-**Fools Game** is a 2D top-down shooter inspired by titles like *Hotline Miami* and *OTXO*.  
+**Fools Game** is a 2D top-down shooter developed in **Unity**, inspired by titles like *Hotline Miami* and *OTXO*.  
 It’s a fast-paced, adrenaline-fueled game with a story about revenge.  
 
 Players navigate through groups of rooms filled with reactive enemies.  
